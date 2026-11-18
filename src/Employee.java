@@ -7,4 +7,6 @@ public class Employee {
     private String email;
     @SuppressWarnings("unused")
     private double salary;
+    @SuppressWarnings("unused")
+    private String phoneNumber;
 }
